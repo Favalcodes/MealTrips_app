@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "75401915471",
+    "project_id": "mealtrips",
+    "storage_bucket": "mealtrips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75401915471:android:eb6fd7839f2fd88566ce3a",
+        "android_client_info": {
+          "package_name": "com.ccr.mealtrips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75401915471-4oimqs9vak29pokfvmpvdpfh3nuovel8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTbU6Le1L7omof-cWnwQHWBkaclufihaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75401915471-4oimqs9vak29pokfvmpvdpfh3nuovel8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
