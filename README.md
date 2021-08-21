@@ -1,4 +1,4 @@
-# PFriend
+# MealTrips
 
 A new Flutter application.
 
